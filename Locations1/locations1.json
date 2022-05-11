@@ -1,0 +1,1566 @@
+[
+  {
+    "locations": [
+      {
+        "attributes": {
+          "address1": "380 LITTLEFIELD AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SOUTH SAN FRANCISC",
+          "lat": 37.64845,
+          "location_type": [],
+          "lon": -122.39328,
+          "name": "DB SCHENKER",
+          "zip": "940806103"
+        },
+        "v_id": "361237",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "42 DIGITAL DR STE 5",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NOVATO",
+          "lat": 38.07048,
+          "location_type": [],
+          "lon": -122.53219,
+          "name": "ROSS PERIODICALS",
+          "zip": "949495762"
+        },
+        "v_id": "361115",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "400 E PARK AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "CHICO",
+          "lat": 39.71476,
+          "location_type": [],
+          "lon": -121.80645,
+          "name": "MVP RECORD SEARCHLIGHT",
+          "zip": "959287127"
+        },
+        "v_id": "366465",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1271 LERIDA WAY",
+          "address2": "",
+          "break_permitted": false,
+          "city": "PACIFICA",
+          "lat": 37.59201,
+          "location_type": [],
+          "lon": -122.47949,
+          "name": "MARIA T BAILEY",
+          "zip": "940443635"
+        },
+        "v_id": "375166",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "SAN JOSE MERCURY",
+          "zip": "945387303"
+        },
+        "v_id": "350976",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "11840 FOLSOM BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "RANCHO CORDOVA",
+          "lat": 38.62398,
+          "location_type": [],
+          "lon": -121.22849,
+          "name": "BECKS FURNITURE CORP",
+          "zip": "957426301"
+        },
+        "v_id": "368188",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5082 OLD HWY N",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MARIPOSA",
+          "lat": 37.48974,
+          "location_type": [],
+          "lon": -119.96524,
+          "name": "MARIPOSA CO UNIFIED SCH DIST",
+          "zip": "953382430"
+        },
+        "v_id": "362276",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "6955 MOWRY AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NEWARK",
+          "lat": 37.51589,
+          "location_type": [],
+          "lon": -122.01197,
+          "name": "SAN FRANCSICO BRANCH",
+          "zip": "945604923"
+        },
+        "v_id": "335674",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "775 SOUTHPOINT BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "PETALUMA",
+          "lat": 38.2602,
+          "location_type": [],
+          "lon": -122.64894,
+          "name": "ANC 3PL SANTA ROSA",
+          "zip": "949546870"
+        },
+        "v_id": "364322",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2050 E BEAMER ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "WOODLAND",
+          "lat": 38.68437,
+          "location_type": [],
+          "lon": -121.72363,
+          "name": "TARGET",
+          "zip": "95776"
+        },
+        "v_id": "300173",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1200 WHIPPLE RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "UNION CITY",
+          "lat": 37.60574,
+          "location_type": [],
+          "lon": -122.03936,
+          "name": "MACYS WEST",
+          "zip": "945872026"
+        },
+        "v_id": "367701",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "455 LOPES RD STE A",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FAIRFIELD",
+          "lat": 38.20757,
+          "location_type": [],
+          "lon": -122.13846,
+          "name": "LOCAL LANGUAGE",
+          "zip": "945341796"
+        },
+        "v_id": "375530",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5232 CLAREMONT AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "OAKLAND",
+          "lat": 37.8386,
+          "location_type": [],
+          "lon": -122.2605,
+          "name": "BANANAS",
+          "zip": "946181033"
+        },
+        "v_id": "375600",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "13393 GRASS VALLEY AVE STE 7",
+          "address2": "",
+          "break_permitted": false,
+          "city": "GRASS VALLEY",
+          "lat": 39.21772,
+          "location_type": [],
+          "lon": -121.01244,
+          "name": "BUD PLANT COMIC ART",
+          "zip": "959459306"
+        },
+        "v_id": "328587",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1 WARRIORS WAY",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN FRANCISCO",
+          "lat": 37.76893,
+          "location_type": [],
+          "lon": -122.38746,
+          "name": "CHASE CENTER",
+          "zip": "941582254"
+        },
+        "v_id": "375686",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1675 7TH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "OAKLAND",
+          "lat": 37.80537,
+          "location_type": [],
+          "lon": -122.30156,
+          "name": "SCF OAKLAND 945",
+          "zip": "946150001"
+        },
+        "v_id": "4212",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "751 143RD AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN LEANDRO",
+          "lat": 37.70825,
+          "location_type": [],
+          "lon": -122.14263,
+          "name": "RELIABLE LIQUIDATION",
+          "zip": "945783342"
+        },
+        "v_id": "375532",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1 NEWS PLZ",
+          "address2": "",
+          "break_permitted": false,
+          "city": "PEORIA",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & REVIEW DECATUR",
+          "zip": "616430001"
+        },
+        "v_id": "354820",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "MONTEREY HERALD",
+          "zip": "945387303"
+        },
+        "v_id": "350138",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "300 LAWRENCE DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "LIVERMORE",
+          "lat": 37.71192,
+          "location_type": [],
+          "lon": -121.70816,
+          "name": "US FOODS",
+          "zip": "94551"
+        },
+        "v_id": "350175",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1750 LUNDY AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.38861,
+          "location_type": [],
+          "lon": -121.88705,
+          "name": "SCF SAN JOSE 950",
+          "zip": "951019998"
+        },
+        "v_id": "4351",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2871 MISSION ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SANTA CRUZ",
+          "lat": 36.9598,
+          "location_type": [],
+          "lon": -122.05614,
+          "name": "FLESK PUBLICATIONS",
+          "zip": "950605756"
+        },
+        "v_id": "373486",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "20 LEVERONI CT",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NOVATO",
+          "lat": 38.07166,
+          "location_type": [],
+          "lon": -122.53135,
+          "name": "ACADEMIC THERAPY PUBLICATIONS",
+          "zip": "949495746"
+        },
+        "v_id": "357062",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1030 HIGH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "AUBURN",
+          "lat": 38.90025,
+          "location_type": [],
+          "lon": -121.06952,
+          "name": "UNION",
+          "zip": "956034707"
+        },
+        "v_id": "352026",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "340 N FRANKLIN ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FORT BRAGG",
+          "lat": 39.44508,
+          "location_type": [],
+          "lon": -123.80457,
+          "name": "SPUNKY SKUNK",
+          "zip": "954373402"
+        },
+        "v_id": "375566",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "EAST BAY TIMES",
+          "zip": "945387303"
+        },
+        "v_id": "350131",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "900 HIGH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "OAKLAND",
+          "lat": 37.76948,
+          "location_type": [],
+          "lon": -122.21865,
+          "name": "OAKLAND UNIFIED SCHOOL DIST",
+          "zip": "946014405"
+        },
+        "v_id": "367478",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "645 WOOL CREEK DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.3139,
+          "location_type": [],
+          "lon": -121.84949,
+          "name": "FRANKLIN-MCKINLEY ELEMENTARY S",
+          "zip": "951122617"
+        },
+        "v_id": "341903",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3923 S B ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "STOCKTON",
+          "lat": 37.91483,
+          "location_type": [],
+          "lon": -121.24805,
+          "name": "AMAZON",
+          "zip": "952068202"
+        },
+        "v_id": "366158",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2795 S PARADISE AVE STE 100",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.75389,
+          "location_type": [],
+          "lon": -121.3895,
+          "name": "MTE USPS SAN FRANCISCO 95MTE",
+          "zip": "953048528"
+        },
+        "v_id": "369851",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5505 REDWOOD DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "ROHNERT PARK",
+          "lat": 38.35659,
+          "location_type": [],
+          "lon": -122.71353,
+          "name": "PRESS DEMOCRAT",
+          "zip": "949282098"
+        },
+        "v_id": "8912",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1300 EVANS AVE STE 300P",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN FRANCISCO",
+          "lat": 37.66035,
+          "location_type": [],
+          "lon": -121.7793,
+          "name": "ADC SAN FRANCISCO 940",
+          "zip": "941888025"
+        },
+        "v_id": "120103",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1750 LUNDY AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.38861,
+          "location_type": [],
+          "lon": -121.88705,
+          "name": "ADC SAN JOSE 950",
+          "zip": "951019998"
+        },
+        "v_id": "166983",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "900 BUSINESS PARK DR UNIT C",
+          "address2": "",
+          "break_permitted": false,
+          "city": "DIXON",
+          "lat": 38.45444,
+          "location_type": [],
+          "lon": -121.82028,
+          "name": "MATHEWS MATTRESS OUTLET",
+          "zip": "956204306"
+        },
+        "v_id": "367790",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "590 WORK ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SALINAS",
+          "lat": 36.668,
+          "location_type": [],
+          "lon": -121.63974,
+          "name": "EVAN MOOR",
+          "zip": "939014396"
+        },
+        "v_id": "331199",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3837 PRODUCERS DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "STOCKTON",
+          "lat": 37.91032,
+          "location_type": [],
+          "lon": -121.26993,
+          "name": "DC STOCKTON",
+          "zip": "95206"
+        },
+        "v_id": "313267",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "888 HOWARD ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN FRANCISCO",
+          "lat": 37.78187,
+          "location_type": [],
+          "lon": -122.40448,
+          "name": "INTERCONTINENTAL/SAN FRANCISCO",
+          "zip": "94103"
+        },
+        "v_id": "171508",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "8555 ELDER CREEK RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.51139,
+          "location_type": [],
+          "lon": -121.38825,
+          "name": "ELK GROVE UNIF SCH DIST",
+          "zip": "958281821"
+        },
+        "v_id": "375783",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "665 LENFEST RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.36242,
+          "location_type": [],
+          "lon": -121.87028,
+          "name": "BR PRINTING",
+          "zip": "951331615"
+        },
+        "v_id": "360694",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1880 E HAMMER LN",
+          "address2": "",
+          "break_permitted": false,
+          "city": "STOCKTON",
+          "lat": 38.02086,
+          "location_type": [],
+          "lon": -121.2899,
+          "name": "FLOOR AND DECOR",
+          "zip": "952104117"
+        },
+        "v_id": "375881",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1 NEWS PLZ",
+          "address2": "",
+          "break_permitted": false,
+          "city": "PEORIA",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & REVIEW PLUS",
+          "zip": "616430001"
+        },
+        "v_id": "372364",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "6955 MOWRY AVE",
+          "address2": "C/O ADVO",
+          "break_permitted": false,
+          "city": "NEWARK",
+          "lat": 37.51589,
+          "location_type": [],
+          "lon": -122.01197,
+          "name": "VALASSIS - SAN FRANCISCO",
+          "zip": "945604923"
+        },
+        "v_id": "29271",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1675 7TH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "OAKLAND",
+          "lat": 37.80537,
+          "location_type": [],
+          "lon": -122.30156,
+          "name": "ADC OAKLAND 945",
+          "zip": "946150001"
+        },
+        "v_id": "12337",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "11700 DUNLAP INDUSTRIAL BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MARYLAND HEIGHTS",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & REVIEW",
+          "zip": "630433429"
+        },
+        "v_id": "375547",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3222 WINOMA WAY",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NORTH HIGHLANDS",
+          "lat": 38.65165,
+          "location_type": [],
+          "lon": -121.38966,
+          "name": "GRANT JOINT UNION HIGHSCHOOL",
+          "zip": "95660"
+        },
+        "v_id": "129875",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "25501 GATEWAY BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.72169,
+          "location_type": [],
+          "lon": -121.52235,
+          "name": "COSTCO TRACY DEPOT 179",
+          "zip": "953778645"
+        },
+        "v_id": "372940",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "9 LAGUNITAS RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "ROSS",
+          "lat": 37.96209,
+          "location_type": [],
+          "lon": -122.55765,
+          "name": "ROSS ELEMENTARY SCHOOL",
+          "zip": "949579661"
+        },
+        "v_id": "370209",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2701 FOOTHILLS BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "KLAMATH FALLS",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & NEWS",
+          "zip": "97603"
+        },
+        "v_id": "106593",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "ENTERPRISE RECORD",
+          "zip": "945387303"
+        },
+        "v_id": "350347",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2000 CHABOT CT",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.75079,
+          "location_type": [],
+          "lon": -121.38757,
+          "name": "VICTORY PACKAGING",
+          "zip": "953048841"
+        },
+        "v_id": "367201",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2031 CESSNA DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "VACAVILLE",
+          "lat": 38.39004,
+          "location_type": [],
+          "lon": -121.96097,
+          "name": "NORTH NAY DISTRIBUTION",
+          "zip": "956888903"
+        },
+        "v_id": "375663",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "677 LENFEST RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.36364,
+          "location_type": [],
+          "lon": -121.87001,
+          "name": "BR PRINTERS",
+          "zip": "951331615"
+        },
+        "v_id": "367884",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "400 E PARK AVE",
+          "address2": "W SIDE LOADING DOCK (REAR)",
+          "break_permitted": false,
+          "city": "CHICO",
+          "lat": 39.71476,
+          "location_type": [],
+          "lon": -121.80645,
+          "name": "VALLEJO TIMES HERALD",
+          "zip": "959287127"
+        },
+        "v_id": "337526",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "4251 GATEWAY PARK BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.64829,
+          "location_type": [],
+          "lon": -121.50269,
+          "name": "METRO MAILING SERVICES INC",
+          "zip": "958341975"
+        },
+        "v_id": "354834",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1464 ENTERPRISE BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "WEST SACRAMENTO",
+          "lat": 38.56958,
+          "location_type": [],
+          "lon": -121.58056,
+          "name": "ANC 3PL SACRAMENTO",
+          "zip": "956913485"
+        },
+        "v_id": "364320",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1835 DIESEL DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.64902,
+          "location_type": [],
+          "lon": -121.42293,
+          "name": "BERGER BROTHERS",
+          "zip": "958382429"
+        },
+        "v_id": "374057",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1830 CLAYTON AVE STE C",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MODESTO",
+          "lat": 37.66225,
+          "location_type": [],
+          "lon": -121.02522,
+          "name": "MODESTO 1ST CHOICE",
+          "zip": "953504760"
+        },
+        "v_id": "373308",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "400 E PARK AVE",
+          "address2": "W SIDE LOADING DOCK (REAR)",
+          "break_permitted": false,
+          "city": "CHICO",
+          "lat": 39.71476,
+          "location_type": [],
+          "lon": -121.80645,
+          "name": "DAILY NEWS/CHICO",
+          "zip": "959287127"
+        },
+        "v_id": "141330",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1250 TEXAS ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FAIRFIELD",
+          "lat": 38.24924,
+          "location_type": [],
+          "lon": -122.04957,
+          "name": "DAILY REPUBLIC",
+          "zip": "945335748"
+        },
+        "v_id": "29220",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "10170 CROYDON WAY STE H",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.58076,
+          "location_type": [],
+          "lon": -121.31437,
+          "name": "SACRAMENTO BEE",
+          "zip": "958272104"
+        },
+        "v_id": "368551",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "30254 SANTUCCI CT",
+          "address2": "",
+          "break_permitted": false,
+          "city": "HAYWARD",
+          "lat": 37.62325,
+          "location_type": [],
+          "lon": -122.05244,
+          "name": "TFORCE DISTRIBUTION",
+          "zip": "945447100"
+        },
+        "v_id": "365387",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2852 W WINTON AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "HAYWARD",
+          "lat": 37.64966,
+          "location_type": [],
+          "lon": -122.14376,
+          "name": "AMERICAN NEWS COMPANY/ 3PL HAY",
+          "zip": "945451122"
+        },
+        "v_id": "364323",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "701 LYNN GARDEN DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "KINGSPORT",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & TRIBUNE",
+          "zip": "376605607"
+        },
+        "v_id": "337229",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.54335,
+          "location_type": [],
+          "lon": -121.97991,
+          "name": "SAN FRANCISCO SMC",
+          "zip": "945387303"
+        },
+        "v_id": "325523",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "11700 DUNLAP INDUSTRIAL BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MARYLAND HEIGHTS",
+          "lat": 38.29564,
+          "location_type": [],
+          "lon": -121.24455,
+          "name": "HERALD & REVIEW PLUS",
+          "zip": "630433429"
+        },
+        "v_id": "375548",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5505 REDWOOD DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "ROHNERT PARK",
+          "lat": 38.35659,
+          "location_type": [],
+          "lon": -122.71353,
+          "name": "NAPA VALLEY REGISTER",
+          "zip": "94928"
+        },
+        "v_id": "334850",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5 SIERRA GATE PLZ",
+          "address2": "",
+          "break_permitted": false,
+          "city": "ROSEVILLE",
+          "lat": 38.75271,
+          "location_type": [],
+          "lon": -121.26628,
+          "name": "JOHN ADAMS ACADEMY NSD",
+          "zip": "956786605"
+        },
+        "v_id": "371164",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1705 N CHRISMAN RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.74576,
+          "location_type": [],
+          "lon": -121.39832,
+          "name": "CRATE AND BARREL 491",
+          "zip": "953049314"
+        },
+        "v_id": "353222",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "BAY AREA NEWS GROUP",
+          "zip": "945387303"
+        },
+        "v_id": "350928",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "6955 MOWRY AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NEWARK",
+          "lat": 37.51589,
+          "location_type": [],
+          "lon": -122.01197,
+          "name": "VALASSIS NEWARK",
+          "zip": "945604923"
+        },
+        "v_id": "318877",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "25862 SCHULTE CT",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.72051,
+          "location_type": [],
+          "lon": -121.52657,
+          "name": "COSTCO TRACY 179",
+          "zip": "953778643"
+        },
+        "v_id": "128654",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "410 E GRANT LINE RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "TRACY",
+          "lat": 37.75423,
+          "location_type": [],
+          "lon": -121.41779,
+          "name": "NEVADA APPEAL",
+          "zip": "953762811"
+        },
+        "v_id": "375155",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1300 EVANS AVE STE 300P",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN FRANCISCO",
+          "lat": 37.66035,
+          "location_type": [],
+          "lon": -121.7793,
+          "name": "SCF SAN FRANCISCO 940",
+          "zip": "941888025"
+        },
+        "v_id": "4349",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "6401 AUSTIN RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "STOCKTON",
+          "lat": 37.91018,
+          "location_type": [],
+          "lon": -121.18401,
+          "name": "AMAZON WAREHOUSE SCK4",
+          "zip": "95215"
+        },
+        "v_id": "374700",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "8431 GERBER RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.4826,
+          "location_type": [],
+          "lon": -121.39325,
+          "name": "ELK GROVE UNIF SCHOOL DISTRICT",
+          "zip": "958283711"
+        },
+        "v_id": "368350",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1030 HIGH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "AUBURN",
+          "lat": 38.90025,
+          "location_type": [],
+          "lon": -121.06952,
+          "name": "PRESS TRIBUNE",
+          "zip": "956034707"
+        },
+        "v_id": "322379",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3837 PRODUCERS DR STE 200",
+          "address2": "",
+          "break_permitted": false,
+          "city": "STOCKTON",
+          "lat": 37.91032,
+          "location_type": [],
+          "lon": -121.26993,
+          "name": "DC STOCKTON",
+          "zip": "952064219"
+        },
+        "v_id": "302742",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "30311 WHIPPLE RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "UNION CITY",
+          "lat": 37.60176,
+          "location_type": [],
+          "lon": -122.08695,
+          "name": "AMERICAN NEWS COMPANY/ 3PL GIL",
+          "zip": "945871526"
+        },
+        "v_id": "364324",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "599 HAWTHORNE PL",
+          "address2": "",
+          "break_permitted": false,
+          "city": "LIVERMORE",
+          "lat": 37.70497,
+          "location_type": [],
+          "lon": -121.70107,
+          "name": "MANCINIS SLEEP WORLD INC",
+          "zip": "945507190"
+        },
+        "v_id": "367643",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2660 INDUSTRIAL BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "WEST SACRAMENTO",
+          "lat": 38.56746,
+          "location_type": [],
+          "lon": -121.54647,
+          "name": "TFORCE DISTRIBUTION",
+          "zip": "956913825"
+        },
+        "v_id": "365386",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1030 HIGH ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "AUBURN",
+          "lat": 38.90025,
+          "location_type": [],
+          "lon": -121.06952,
+          "name": "ROSEVILLE  PRESS TRIBUNE",
+          "zip": "956034707"
+        },
+        "v_id": "105779",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "CONTRA COSTA TIMES",
+          "zip": "945387303"
+        },
+        "v_id": "350974",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3775 INDUSTRIAL BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "WEST SACRAMENTO",
+          "lat": 38.57109,
+          "location_type": [],
+          "lon": -121.57224,
+          "name": "ADC SACRAMENTO 956",
+          "zip": "957990199"
+        },
+        "v_id": "122087",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1021 MONTEREY SALINAS HWY",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SALINAS",
+          "lat": 36.57037,
+          "location_type": [],
+          "lon": -121.76142,
+          "name": "SCRAMP",
+          "zip": "939088937"
+        },
+        "v_id": "159716",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "5735 47TH AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SACRAMENTO",
+          "lat": 38.51144,
+          "location_type": [],
+          "lon": -121.43835,
+          "name": "SACRAMENTO START",
+          "zip": "958244528"
+        },
+        "v_id": "334050",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "3775 INDUSTRIAL BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "WEST SACRAMENTO",
+          "lat": 38.57109,
+          "location_type": [],
+          "lon": -121.57224,
+          "name": "SCF SACRAMENTO 956",
+          "zip": "957990199"
+        },
+        "v_id": "5912",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2201 COOPER AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MERCED",
+          "lat": 37.31634,
+          "location_type": [],
+          "lon": -120.5099,
+          "name": "QUAD GRAPHICS MERCED",
+          "zip": "953484307"
+        },
+        "v_id": "38949",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "685 E JACK LONDON BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "LIVERMORE",
+          "lat": 37.68828,
+          "location_type": [],
+          "lon": -121.79152,
+          "name": "LIVERMORE VALLEY JT UNIFIED SC",
+          "zip": "945511855"
+        },
+        "v_id": "368424",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1235 W MAIN ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MERCED",
+          "lat": 37.30564,
+          "location_type": [],
+          "lon": -120.49479,
+          "name": "MERCED COUNTY COMMUNITY ACTION",
+          "zip": "953404524"
+        },
+        "v_id": "375598",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1101 MILITARY W",
+          "address2": "",
+          "break_permitted": false,
+          "city": "BENICIA",
+          "lat": 38.06407,
+          "location_type": [],
+          "lon": -122.17551,
+          "name": "KATHRYN OSMER",
+          "zip": "945102428"
+        },
+        "v_id": "375753",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "500 OREGON ST",
+          "address2": "",
+          "break_permitted": false,
+          "city": "VALLEJO",
+          "lat": 38.11832,
+          "location_type": [],
+          "lon": -122.25018,
+          "name": "CALIBER CHANGE MAKERS ACADEMY",
+          "zip": "945903254"
+        },
+        "v_id": "362495",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "MARIN INDEPENDENT JOURNAL",
+          "zip": "945387303"
+        },
+        "v_id": "350132",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2501 RYDIN RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "RICHMOND",
+          "lat": 37.90141,
+          "location_type": [],
+          "lon": -122.31806,
+          "name": "BMC SAN FRANCISCO NDC 94Z",
+          "zip": "948509751"
+        },
+        "v_id": "5151",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "4400 CROWS LANDING RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "MODESTO",
+          "lat": 37.5732,
+          "location_type": [],
+          "lon": -120.99369,
+          "name": "WINCO",
+          "zip": "95358"
+        },
+        "v_id": "188640",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "10000 ALLANTOWN DR STE 110",
+          "address2": "",
+          "break_permitted": false,
+          "city": "ROSEVILLE",
+          "lat": 38.79543,
+          "location_type": [],
+          "lon": -121.30594,
+          "name": "RC WILLEY HOME FURNISHINGS",
+          "zip": "956785996"
+        },
+        "v_id": "368134",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "SACRAMENTO BEE",
+          "zip": "945387303"
+        },
+        "v_id": "367277",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "840 LATOUR CT STE B",
+          "address2": "",
+          "break_permitted": false,
+          "city": "NAPA",
+          "lat": 38.25635,
+          "location_type": [],
+          "lon": -122.27306,
+          "name": "THOMAS KELLER RESTAURANT GROUP",
+          "zip": "94558"
+        },
+        "v_id": "364374",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "2131 E LOUISE AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "LATHROP",
+          "lat": 37.81185,
+          "location_type": [],
+          "lon": -121.26755,
+          "name": "PRATT INDUSTRIES",
+          "zip": "953309607"
+        },
+        "v_id": "354139",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1750 LUNDY AVE",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN JOSE",
+          "lat": 37.38861,
+          "location_type": [],
+          "lon": -121.88705,
+          "name": "FSS SAN JOSE 950",
+          "zip": "951019998"
+        },
+        "v_id": "329474",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "1109 GEARY BLVD",
+          "address2": "",
+          "break_permitted": false,
+          "city": "SAN FRANCISCO",
+          "lat": 37.78558,
+          "location_type": [],
+          "lon": -122.42222,
+          "name": "ALAN WOFSY FINE ARTS LLC",
+          "zip": "941096815"
+        },
+        "v_id": "360193",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.47386,
+          "location_type": [],
+          "lon": -121.93082,
+          "name": "SANTA CRUZ SENTINEL",
+          "zip": "945387303"
+        },
+        "v_id": "350133",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "400 E PARK AVE",
+          "address2": "W SIDE LOADING DOCK (REAR)",
+          "break_permitted": false,
+          "city": "CHICO",
+          "lat": 39.71476,
+          "location_type": [],
+          "lon": -121.80645,
+          "name": "RECORD SEARCHLIGHT",
+          "zip": "959287127"
+        },
+        "v_id": "361219",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "230 DOHERTY DR",
+          "address2": "",
+          "break_permitted": false,
+          "city": "LARKSPUR",
+          "lat": 37.93818,
+          "location_type": [],
+          "lon": -122.53161,
+          "name": "LARKSPUR - CORTE MADERA SCHOOL",
+          "zip": "949391532"
+        },
+        "v_id": "375677",
+        "v_type": "location"
+      },
+      {
+        "attributes": {
+          "address1": "47540 KATO RD",
+          "address2": "C/O TRANS NORTHERN CALIFORNIA",
+          "break_permitted": false,
+          "city": "FREMONT",
+          "lat": 37.54335,
+          "location_type": [],
+          "lon": -121.97991,
+          "name": "SAN FRANCISCO CHRONICLE",
+          "zip": "945387303"
+        },
+        "v_id": "181752",
+        "v_type": "location"
+      }
+    ]
+  }
+]
